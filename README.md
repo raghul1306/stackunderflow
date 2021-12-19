@@ -1,6 +1,12 @@
+# For Study purposes
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Version check
+
+check for correct versions in package.json file and install accordingly
 
 ## Available Scripts
 
